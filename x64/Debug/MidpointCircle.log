@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\user\Desktop\MidpointCircle\main.cpp(28,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\MidpointCircle\main.cpp(54,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MidpointCircle.vcxproj -> C:\Users\user\Desktop\MidpointCircle\x64\Debug\MidpointCircle.exe
